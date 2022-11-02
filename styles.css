@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    position: absolute;
+    height: 40%;
+    width: 100%;
+    background-image: url(images/bassunderwater.jpg);
+    background-size: cover;
+    background-position-y: -700px;
+}
